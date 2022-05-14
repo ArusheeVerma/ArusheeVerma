@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Something about me 👩‍💻:
+ **Something about me 👩‍💻:**
 - 😇 A passionate developer who wants to learn, grow ,contribute and build. 
 - 🧠 Loves programming, maths and playing with datasets.
 - Connect with me 📬
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
     - 📧 [Gmail](aru2002verma@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArusheeVerma)](https://github.com/ArusheeVerma/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArusheeVerma)](https://github.com/ArusheeVerma/github-readme-stats)-->
