@@ -1,5 +1,5 @@
 # Arushee Verma
-### Sophomore pursuing Computer Science
+### Third Year Undergrad pursuing Computer Science
 
 <!--
 **ArusheeVerma/ArusheeVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  **Something about me 👩‍💻:**
 - 😇 A passionate developer who wants to learn, grow ,contribute and build. 
-- 🧠 Loves programming, maths and playing with datasets.
+- 🧠 Loves Programming, Web Development, Machine Learning, Maths and playing with datasets.
 - Connect with me 📬
     - 🏢 [LinkedIn](https://www.linkedin.com/in/arushee-verma-0a7589211/)
     - 📧 [Gmail](aru2002verma@gmail.com)
